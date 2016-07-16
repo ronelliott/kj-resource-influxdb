@@ -1,6 +1,6 @@
 {
   "name": "kj-resource-influxdb",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Influxdb resource creation for the kj webapp framework.",
   "author": "Ron Elliott <ronaldbelliott@gmail.com>",
   "license": "ISC",
